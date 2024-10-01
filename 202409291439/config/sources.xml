@@ -1,0 +1,35 @@
+<sources>
+    <programs>
+        <default pathversion="1"></default>
+    </programs>
+    <video>
+        <default pathversion="1"></default>
+    </video>
+    <music>
+        <default pathversion="1"></default>
+    </music>
+    <pictures>
+        <default pathversion="1"></default>
+    </pictures>
+    <files>
+        <default pathversion="1"></default>
+        <source>
+            <name>packages</name>
+            <path pathversion="1">https://tikipeter.github.io/packages/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>cc</name>
+            <path pathversion="1">https://cocojoe2411.github.io/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>packagesa4k</name>
+            <path pathversion="1">https://a4k-openproject.github.io/a4kSubtitles/packages/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+    </files>
+    <games>
+        <default pathversion="1"></default>
+    </games>
+</sources>

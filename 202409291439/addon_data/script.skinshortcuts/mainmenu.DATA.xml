@@ -1,0 +1,50 @@
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>Continue</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/eye.png</thumb>
+		<action>A</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>livetv</defaultID>
+		<label>Search</label>
+		<label2>Custom item</label2>
+		<icon>special://skin/extras/icons/livetv.png</icon>
+		<thumb>special://skin/extras/icons/search.png</thumb>
+		<action>A</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Movies</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://https%3a%2f%2fi.imgur.com%2fpmyCOx7.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.fenlight/?name=Trending+Recent&amp;iconImage=https%3A%2F%2Fi.imgur.com%2FvBwrjLV.png&amp;mode=build_movie_list&amp;action=trakt_movies_trending_recent&amp;random_support=true",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>tvshows</defaultID>
+		<label>20343</label>
+		<label2>Custom item</label2>
+		<icon>special://skin/extras/icons/tv.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.fenlight/?name=Trending+Recent&amp;iconImage=https%3A%2F%2Fi.imgur.com%2FvBwrjLV.png&amp;mode=build_tvshow_list&amp;action=trakt_tv_trending_recent&amp;random_support=true",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Favorites</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://https%3a%2f%2fi.imgur.com%2fuCaIeC6.png/</thumb>
+		<action>A</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>power</defaultID>
+		<label>System</label>
+		<label2>Common Shortcut</label2>
+		<icon>special://skin/extras/icons/power.png</icon>
+		<thumb>special://skin/extras/icons/settings.png</thumb>
+		<action>ActivateWindow(shutdownmenu)</action>
+		</shortcut>
+	</shortcuts>

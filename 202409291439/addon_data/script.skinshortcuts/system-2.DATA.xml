@@ -1,0 +1,18 @@
+<shortcuts>
+	<shortcut>
+		<defaultID>script.speedtester</defaultID>
+		<label>Speed Tester</label>
+		<label2>Program</label2>
+		<icon>DefaultAddon.png</icon>
+		<thumb>/storage/emulated/0/Download/speedtest.jpg</thumb>
+		<action>RunAddOn(script.speedtester)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>script.xbmcbackup</defaultID>
+		<label>Backup</label>
+		<label2>Program</label2>
+		<icon>DefaultAddon.png</icon>
+		<thumb>/storage/emulated/0/Download/backup.png</thumb>
+		<action>RunAddOn(script.xbmcbackup)</action>
+		</shortcut>
+	</shortcuts>

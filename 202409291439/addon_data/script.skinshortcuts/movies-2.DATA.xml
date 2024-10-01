@@ -1,0 +1,58 @@
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>Popular</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://https%3a%2f%2fi.imgur.com%2fngkznpf.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.fenlight/?name=Popular&amp;iconImage=https%3A%2F%2Fi.imgur.com%2Fngkznpf.png&amp;mode=build_movie_list&amp;action=tmdb_movies_popular&amp;random_support=true",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Popular Today</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://https%3a%2f%2fi.imgur.com%2fLKqXjQ1.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.fenlight/?name=Popular+Today&amp;iconImage=https%3A%2F%2Fi.imgur.com%2FLKqXjQ1.png&amp;mode=build_movie_list&amp;action=tmdb_movies_popular_today&amp;random_support=true",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Premieres</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://https%3a%2f%2fi.imgur.com%2fO2bqOfI.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.fenlight/?name=Premieres&amp;action=tmdb_movies_premieres&amp;iconImage=https%3A%2F%2Fi.imgur.com%2FO2bqOfI.png&amp;mode=build_movie_list&amp;random_support=true",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Oscar Winners</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://https%3a%2f%2fi.imgur.com%2fAMg9mQS.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.fenlight/?name=Oscar+Winners&amp;iconImage=https%3A%2F%2Fi.imgur.com%2FAMg9mQS.png&amp;mode=build_movie_list&amp;action=tmdb_movies_oscar_winners&amp;random_support=true",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Foreign</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://https%3a%2f%2fi.imgur.com%2fgxgLI0J.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.fenlight/?name=Languages&amp;iconImage=https%3A%2F%2Fi.imgur.com%2FgxgLI0J.png&amp;mode=navigator.languages&amp;menu_type=movie&amp;random_support=true",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Years</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://https%3a%2f%2fi.imgur.com%2ffN4GQmO.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.fenlight/?name=Years&amp;iconImage=https%3A%2F%2Fi.imgur.com%2FfN4GQmO.png&amp;mode=navigator.years&amp;menu_type=movie&amp;random_support=true",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Genres</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://https%3a%2f%2fi.imgur.com%2f6QpJbS0.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.fenlight/?name=Genres&amp;iconImage=https%3A%2F%2Fi.imgur.com%2F6QpJbS0.png&amp;mode=navigator.genres&amp;menu_type=tvshow&amp;random_support=true",return)</action>
+		</shortcut>
+	</shortcuts>

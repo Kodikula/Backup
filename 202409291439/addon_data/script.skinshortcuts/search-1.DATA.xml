@@ -1,0 +1,26 @@
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>Keyword Search</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/search.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.fenlight/?mode=navigator.search_history&amp;action=movie&amp;name=Search+History+Movies&amp;iconImage=https%3A%2F%2Fi.imgur.com%2Fu8jgyN3.png",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Community Lists</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/newspaper.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.fenlight/?name=My+Lists&amp;iconImage=https%3A%2F%2Fi.imgur.com%2FXbEEv9X.png&amp;mode=navigator.my_content",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Create List</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/years.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.fenlight/?mode=navigator.discover_contents&amp;media_type=movie&amp;iconImage=https%3A%2F%2Fi.imgur.com%2FpmyCOx7.png",return)</action>
+		</shortcut>
+	</shortcuts>

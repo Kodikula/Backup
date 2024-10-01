@@ -1,0 +1,26 @@
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>Tools</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://https%3a%2f%2fi.imgur.com%2f4xBbqSw.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.fenlight/?name=Tools&amp;iconImage=https%3A%2F%2Fi.imgur.com%2F4xBbqSw.png&amp;mode=navigator.tools",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>settings</defaultID>
+		<label>10004</label>
+		<label2>Settings</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/settings.png</thumb>
+		<action>ActivateWindow(Settings)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Power</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/power.png</thumb>
+		<action>activatewindow(shutdownmenu)</action>
+		</shortcut>
+	</shortcuts>
